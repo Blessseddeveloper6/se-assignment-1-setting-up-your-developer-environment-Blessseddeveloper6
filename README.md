@@ -13,13 +13,60 @@ This assignment aims to familiarize you with the tools and configurations necess
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
+   Installation of windows 11: I am not eligible to download windows 11.
+
+
+
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+
+   Installation of VS code: 
+
+Step 1: To download VS code, head over to their official website and click on the download options for windows.
+
+
+Step 2: Wait for some minutes for it to download. Then click on the VS code icon to open the installation process. Accept the terms and conditions.
+
+
+Step 4: choose a location for the running of VS code. Then click the next button.
+
+
+Step 5: click on the install button to install the vs code.
+
+
+After installing, the app will and then you are ready to use. 
+
+
+
+
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
+   Installation of version control(GIT)
+
+Step 1: To install Git on windows, go to the official website and click on the download link for windows.
+ Step 2: After downloading, click on the file to extract and install. There will be series of prompts during the installation process, such as : 
+Reading and reviewing of the GNU public license
+Choosing of destination location for the app
+Choosing components to be installed.
+
+Sometimes it is better to leave the default recommendations and just click on NEXT.
+
+Once the installation is complete, click on the launch git bash button and then the FINISH button.
+
+
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+
+  Installation of python
+
+Step 1: To install python on windows, go to the official website, click on the download button to download the exe file of python according to your system’s capacity. 
+
+Step 2:  Click on the install now button, a prompt will appear asking you to add the install app to path, click on it.
+
+Step 3: click on the install now button and wait for some minutes. After which it will be successful. You can then hover over your start button on the taskbar and search “command prompt”, open it as an administrator, then run the following prompt, “python –version”. This prompt will show if the python app was well installed.
+Step 4: go to your already installed VS code and then click on the extension icon, search for the verified python extension and install. 
+
 
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
@@ -38,8 +85,11 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
+<a href= "https://docs.google.com/document/d/1fAq2941IFaAC5rQiKUwsIXmBtLBFSXosqufHcsRleZM/edit?usp=sharing">Documents showingbthe step-by-step istructions and screenshots</a>
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
+The challenges faced during the installation were mainly on the process of installing Dart, MySQL and Flutter but thanks to the teachings, I was able to overcome them and download them.
+
 
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
